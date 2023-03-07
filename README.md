@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Turtle Crossing Game</h1>
 
-<h2 id="description">Using the turtle module in Python, built a game where turtle has to cross the street and avoid oncoming traffic.</h2>
+<h2 id="description">Using the turtle module in Python, built a game where turtle has to cross the street, and avoid oncoming traffic.</h2>
 
   
   
