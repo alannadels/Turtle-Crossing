@@ -6,11 +6,11 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Some of the project's best features:
 
 *   Built in Python
 *   Built with object-oriented programming (OOP) principles
-*   Makes use of the following modules: time and turtle
+*   Makes use of the following modules: Time and Turtle
 *   Entertaining and enjoyable game
 
 <h2>🛠️ Setup:</h2>
